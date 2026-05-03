@@ -273,6 +273,14 @@
         {
             "language": "universal_robots",
             "path": "./snippets/snippet.universal_robots.json"
+        },
+        {
+            "language": "Epson",
+            "path": "./snippets/snippet.epson.json"
+        },
+        {
+            "language": "Omron",
+            "path": "./snippets/snippet.omron.json"
         }
     ]
 }
